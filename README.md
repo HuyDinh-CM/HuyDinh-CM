@@ -16,7 +16,7 @@ Currently, I'm open to opportunities in roles such as Data Analyst, Business Int
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects]([https://www.linkedin.com/in/huy-dinh-quoc/]).
 
 
 
