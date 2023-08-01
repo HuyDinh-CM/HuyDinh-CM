@@ -25,11 +25,10 @@ Welcome to my portfolio, where I showcase my projects:
 
 
 ### 🛠️ Tools
-
-•	SQL (SQL Server, MySQL, PostgreSQL)
-•	Python (Pandas, NumPy, MatPlotLib, Seaborn, sckitlearn)
-•	Excel (VLookup, Conditional Formatting, Pivot Tables)
-•	Microsoft Power BI
-•	IBM Cognos Analytics
-•	Tableau
-•	IBM Waston studio 
+- SQL (SQL Server, MySQL, PostgreSQL)
+- Python (Pandas, NumPy, MatPlotLib, Seaborn, sckitlearn)
+- Excel (VLookup, Conditional Formatting, Pivot Tables)
+- Microsoft Power BI
+- IBM Cognos Analytics
+- Tableau
+- IBM Waston studio 
