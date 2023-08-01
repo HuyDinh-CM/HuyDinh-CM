@@ -30,12 +30,6 @@ Welcome to my portfolio, where I showcase my projects:
 •	Python (Pandas, NumPy, MatPlotLib, Seaborn, sckitlearn)
 •	Excel (VLookup, Conditional Formatting, Pivot Tables)
 •	Microsoft Power BI
-•	IBM Crognos Analytics
+•	IBM Cognos Analytics
 •	Tableau
 •	IBM Waston studio 
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HuyDinh-CM&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuyDinh-CM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
