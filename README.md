@@ -6,9 +6,10 @@
 ### Introducing Myself
 
 I'm Huy Dinh, a data analyst ...
-<p align="Left">
+
 <a href="https://www.linkedin.com/in/huy-dinh-quoc/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
+<a href="https://public.tableau.com/app/profile/huy.dinh5612"><img src="https://img.shields.io/badge/Tableau%20Public-Tableau%20Profile-orange" alt="Tableau Public Badge"></a>
 
 With expertise in query optimization, database design, data modeling, and data analysis, I'm passionate about helping businesses make sense of their data. 
 
